@@ -11,6 +11,7 @@ Every animation is a single file, `Nzsqh.py`. Pick a folder, run it, watch it.
 | [`drop/`](drop) | A drop of water swells on a leaf, falls in slow motion and splashes into a pond under the moon (ray-marched 3D) |
 | [`firefly/`](firefly) | A firefly takes off from a blade of grass and paints a butterfly of light that flies away (ray-marched 3D) |
 | [`street-lamp/`](street-lamp) | A street lamp flickers on in the rain, a neon sign glows and the city appears behind (ray-marched 3D) |
+| [`dna/`](dna) | A DNA double helix builds itself: two backbones twist upwards and every base pair (A-T, G-C) snaps into place |
 
 More coming.
 
